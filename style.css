@@ -1,0 +1,28 @@
+body {
+  background: lightgreen;
+}
+header {
+    background:rgba(100,100,100,0.8);
+    padding: 15px;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+h3 {
+  color: white;
+}
+p {
+  color: white;
+}
+img {
+   height:300px;
+   width=:300px;
+   border-radius: 15px;
+   margin-left: 35%;
+}
+#div-body {
+    background:rgba(100,100,100,0.6);
+    padding:5px;
+    margin-top:10px;
+}
