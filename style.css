@@ -130,7 +130,7 @@ input {
   display: grid;
   justify-content: center;
 }
-h3 {
+h4 {
   color: #1eb8c0;
 }
 .item-content p {
@@ -166,5 +166,5 @@ img {
     width: 100%;
 }
 i {
-  margin-left: 5%;
+  margin-left: 5px;
 }
