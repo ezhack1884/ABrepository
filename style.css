@@ -3,6 +3,9 @@
   flex-direction: row;
     background-color: #292728;
 }
+.search {
+  margin-top: 60px;
+}
 .nav-right {
   height: 200px;
   width: 100%;
